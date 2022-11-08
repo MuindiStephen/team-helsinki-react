@@ -16,6 +16,8 @@ Read the contribution guide [here](https://github.com/SpaceyaTech/team-helsinki-
 - Sass
 - ESlint & Prettier
 - Husky (git hooks)
+- ES7
+- JSX
 
 ### Setup
 
